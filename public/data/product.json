@@ -1,0 +1,45 @@
+[
+    {
+        "productName":"HEALTH TATVA",
+        "price":300,
+        "usage":"Eat one tablet after breakfast and dinner",
+        "imgUrls":"../../../../public/images/products/product1.webp"
+    },
+    {
+        "productName":"NASAL DROPS",
+        "price":150,
+        "usage":"Put 3 drops in each nostril before sleeping",
+        "imgUrls":"../../../../public/images/products/product2.webp"
+    },
+    {
+        "productName":"ANTI-DANDRUFF SHAMPOO",
+        "price":300,
+        "usage":"Use twice a week",
+        "imgUrls":"../../../../public/images/products/product3.webp"
+    },
+    {
+        "productName":"HAIR VITAMINS",
+        "price":520,
+        "usage":"one Tablet after breakfast",
+        "imgUrls":"../../../../public/images/products/product4.webp"
+    },
+    {
+        "productName":"MINOXIDIL 5%",
+        "price":650,
+        "usage":"Apply 1ml on the affected area after waking up and before sleeping",
+        "imgUrls":"../../../../public/images/products/product5.webp"
+    },
+    {
+        "productName":"HAIR RAS",
+        "price":520,
+        "usage":"Eat two tablet after breakfast and dinner",
+        "imgUrls":"../../../../public/images/products/product6.webp"
+    },
+    {
+        "productName":"SCAP OIL WITH SCALP THERAPY",
+        "price":450,
+        "usage":"Massage for 3-4 minutes,twice a week",
+        "imgUrls":"../../../../public/images/products/product7.webp"
+    }
+
+]

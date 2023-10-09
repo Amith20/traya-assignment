@@ -1,0 +1,21 @@
+.assessReport{
+    background-color: #A5C174;
+}
+
+.heading{
+    padding: 23px 45px 5px;
+    text-align: center;
+    color: #414042;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.rootCause{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.rootIcons{
+    display: block;
+}

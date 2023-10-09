@@ -1,0 +1,68 @@
+.navbar{
+    background-color: #414042;
+    width: 100%;
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.headerIcons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button{
+   background-color: white;
+   color: black;
+   border-radius: 10px;
+   font-weight: 500;
+   border: none;
+   margin-bottom: 1px;
+}
+
+.button:hover{
+    background-color: #414042;
+    color: white;
+}
+
+.cartIcon{
+    color: white;
+    position: relative;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.cart{
+    padding-top: 5px;
+    height: 30px;
+    width: 25px;
+}
+
+.count{
+    color: white;
+    padding: 2px;
+    font-size: 0.6rem;
+    position: fixed;
+    top: 8px;
+    left: 20px;
+}
+
+.tm{
+    font-size: 0.5rem;
+    vertical-align: super;
+}
+
+.logo{
+    width: 120px;
+    height: 37px;
+}

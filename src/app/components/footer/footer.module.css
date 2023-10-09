@@ -1,0 +1,23 @@
+.footer{
+    background-color: #656565;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.list{
+    list-style-type: none;
+    font-size: 14px;
+}
+
+.socialIcons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+}
+
+.address{
+    font-size: 12px;
+}
